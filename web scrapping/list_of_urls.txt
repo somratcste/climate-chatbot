@@ -1,0 +1,5 @@
+http://quotes.toscrape.com/js/page/1/
+http://quotes.toscrape.com/js/page/2/
+http://quotes.toscrape.com/js/page/3/
+http://quotes.toscrape.com/js/page/4/
+http://quotes.toscrape.com/js/page/5/
