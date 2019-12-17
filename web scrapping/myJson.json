@@ -1,7 +1,175 @@
 {
-    "question": "first question",
-    "author": {
-        "auto": "auto1",
-        "name": "nazmul hossain"
-    }
+    "question": "How much will sea level rise if all the polar ice melts?",
+    "author": "Poomrokc The 3years",
+    "date": "2014-04-30",
+    "text": "There are many movies about global warming, which say that melting of all polar ice would cause the whole world to suffer a huge flood. According my research (teachers, TV, Internet) people hold one of these two viewpoints:\nThere will be a huge flood, because the polar ice has a huge volume.\nThere won't be any flood, because the volume of polar ice is small compared to the whole world.\nWhich one is correct, if all the polar ice melts? What would be the approximate sea-level change (in meters), if this were to happen?",
+    "comments": [
+        {
+            "author": "EnergyNumbers",
+            "date": "2014-04-30",
+            "text": "All ice, or just all polar ice? If the latter, how would Greenland have stayed icy?"
+        },
+        {
+            "author": "Poomrokc The 3years",
+            "date": "2014-04-30",
+            "text": "@EnergyNumbers alright , all ice."
+        },
+        {
+            "author": "naught101",
+            "date": "2014-07-02",
+            "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+        }
+    ],
+    "answers": [
+        {
+            "author": "Peter Jansson",
+            "date": "2014-04-30",
+            "text": "Using the latest numbers from the 2013 IPCC report (Ch. 4, the Cryosphere), Antarctica contains 58.3 m of sea level equivalent (sle) and Greenland 7.36 m sle. Remaining glaciers provide an additional 0.41 m sle. In total and adding very minor contributions from permafrost etc. the total comes out to approximately 66.1 m sle.\nEDIT: Just to be complete: If one by \"pole ices\" also includes sea or other floating ice apart from glaciers terminating in the sea, the contribution from those components to sea level is zero.",
+            "comments": [
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                }
+            ]
+        },
+        {
+            "author": "kaberett",
+            "date": "2014-04-30",
+            "text": "As Peter Jansson explains, sea level rise purely due to melting of land-based global ice works out \"to approximately 66.1 m sle.\"\nAn issue with respect to sea-level rise that isn't often mentioned (especially not in disaster movies!) is that thermal expansion of the sea - i.e. water expanding as global temperatures rise - will also have a huge effect: see section 3.7 of the IPCC report. The magnitude of this effect is of course dependent on the magnitude of rise in global average temperature.",
+            "comments": []
+        },
+        {
+            "author": "Phil Perry",
+            "date": "2014-04-30",
+            "text": "(I can't comment on @kaberett answer as a guest)\nDon't forget the odd effect that as ice melts and the water warms from 0C to 4C, that water will contract slightly, dropping sea level a bit (at least, locally). Once it gets above 4C, it will start expanding again. If the oceans overall cool a bit due to cold meltwater mixing in, they too will contract until they start warming again. Note that this contraction won't save us from a huge rise in sea level in any case, and eventually the meltwater will be mixed in and start warming up beyond 4C, and expand.",
+            "comments": [
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                }
+            ]
+        },
+        {
+            "author": "mcv",
+            "date": "2014-05-01",
+            "text": "As Peter Jansson pointed out, it adds up to 66.1 m of sea level rise. But what does that really mean for us? Here's a nice interactive map tool where you can enter how much the sea level will rise and see what that does to our coast lines. So crank it up to 60m and look around.\nObviously, The Netherlands will disappear almost entirely, as will most of Denmark and major parts of Germany. London will disappear. Most of the capitals in northern Europe will disappear under the sea. Scroll west to the US, and you can see that the entire eastern sea board will be flooded. Washington DC only just, but New York for the most part, and Boston entirely. On the west coast, San Francisco and Los Angeles will be a lot smaller, though parts of them are apparently high enough to survive. And before you think it's only the blue states that take a hit, take a look at Florida and Louisiana. The Mississipi south of Memphis becomes a massive sea inlet. Also, the most densely populated area of China gets flooded up to hundreds of km inland.\nMost of the world's major population centers are at or near the coast, and almost all of them will be threatened by this level of sea rise.",
+            "comments": [
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                }
+            ]
+        },
+        {
+            "author": "Radu Murzea",
+            "date": "2014-04-30",
+            "text": "While @kaberett's and @Phil Perry's answers are technically true, keep in mind 2 important issues:\nthe oceans are so vast and so deep that it literally takes decades if not centuries for them to warm up or cool down. This is called Thermal Inertia - see a much more in-depth explanation about it. Basically, you'll only see the effect of current rising temperatures when you're too old to give a damn.\nmelting ice from the poles will indeed have a significant impact on sea level, eventually (see the first point above). But that's not the problem. The problem is that the combination of fresh water (from the ice) and salt water (already in the oceans) will completely screw up the very large and very important ocean currents, also known as Thermohaline circulation. Once this happens... well, let's just say living in a smelly swamp will be considered luxury...\nThe 66 meters calculation seems about right :) .",
+            "comments": [
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                },
+                {
+                    "author": "naught101",
+                    "date": "2014-07-02",
+                    "text": "@WernerCD: I imagine that the day that I start taking anything from Climate Depot seriously will be the day that the first pig gets its pilot's license."
+                }
+            ]
+        },
+        {
+            "author": "user318",
+            "date": "2014-04-30",
+            "text": "I had been to a conference at the NY American Museum of Natural History and the guest speaker at the science convention estimates about 220-230 feet (66 - 69 meters).\nIf the polar ice caps melted, how much would the oceans rise?",
+            "comments": []
+        }
+    ]
 }
