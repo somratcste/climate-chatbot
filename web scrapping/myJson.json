@@ -8,10 +8,29 @@
             {
                 "author": "trond hansen",
                 "date": "2019-12-17",
-                "text": "related: earthscience.stackexchange.com/questions/17199/\u2026 it is my atempt to answer a very simmilar question,others can probably answer it better."
+                "text": "related: earthscience.stackexchange.com/questions/17199/ it is my atempt to answer a very simmilar question,others can probably answer it better."
             },
             {
-                "author": "gerrit\u2666",
+                "author": "gerrit",
+                "date": "2019-12-17",
+                "text": "This is a good question, but can you please edit the title to make it match the question better? Although warm winters are more likely due to climate change, there are also other effects that cause some winters to be warmer than others. A good answer will address both aspects."
+            }
+        ],
+        "answers": []
+    },
+    {
+        "question": "Climate Change in the North",
+        "author": "Ryan Amalfitano",
+        "date": "2019-12-16",
+        "text": "Why has it been so warm in Moscow, Russia the past few winters where the temperatures even overnight have been above freezing when normally it gets brutally cold?",
+        "comments": [
+            {
+                "author": "trond hansen",
+                "date": "2019-12-17",
+                "text": "related: earthscience.stackexchange.com/questions/17199/ it is my atempt to answer a very simmilar question,others can probably answer it better."
+            },
+            {
+                "author": "gerrit",
                 "date": "2019-12-17",
                 "text": "This is a good question, but can you please edit the title to make it match the question better? Although warm winters are more likely due to climate change, there are also other effects that cause some winters to be warmer than others. A good answer will address both aspects."
             }
@@ -22,7 +41,55 @@
         "question": "Are 60C heat waves predicted by 5C of global heating? (The worst consequence of global heating)",
         "author": "polcott",
         "date": "2019-12-16",
-        "text": "Are 60C heat waves predicted by 5C of global heating?(The worst consequence of global heating in heat waves that kill everything in their path)It seems to be the case that 1C of global heating caused the whole global temperature bell curve to shift two standard deviations to the right. (see below)To anyone knowing much about statistics and bell curves this would seem to make the 80 years BAU 5C temperature anomaly have the drastically lethal consequence of much more frequent heat waves greatly exceeding the 44C maximum human survival limit.My own projections of the current trend are a little more pessimistic than IPCC RCP8.5 projections. They simply extrapolate the current exponential increase of atmospheric CO2 and project 877 PPM by 2100 then apply the current IPCC equilibrium CO2 sensitivity formula3C \u00b1 1.5C for every doubling of atomospheric CO2log2(877/280) * 1.5 = 2.47log2(877/280) * 3.0 = 4.94 // Business as usual for 80 more yearslog2(877/280) * 4.5 = 7.41https://www.giss.nasa.gov/research/briefs/hansen_17/When we examine this graph we see that a single degree of temperature anomaly is associated with a shift of the whole temperature bell curve two standard deviations to the right.If we hypothesize that a single degree of temperature anomaly directly caused the entire bell curve to shift the right two standard deviations then the consequences of a 5C would seem to be quite lethal.Once we numerically quantify the relationship between temperature anomaly and shifts of the bell curve then we would be able to apply this to historical geographical temperature extremes and predict the frequency, geographic and temporal extent of heat waves that would kill everything within their boundaries.This relationship seems to predict that the 5C temperature anomaly projected from \"business as usual\" for 80 more years could reasonably result in 60C (140F) killer heat waves. A 60C heat wave will kill everything in its path very quickly. Apparently humans cannot survive 44C for very long.",
+        "text": "Are 60C heat waves predicted by 5C of global heating?(The worst consequence of global heating in heat waves that kill everything in their path)It seems to be the case that 1C of global heating caused the whole global temperature bell curve to shift two standard deviations to the right. (see below)To anyone knowing much about statistics and bell curves this would seem to make the 80 years BAU 5C temperature anomaly have the drastically lethal consequence of much more frequent heat waves greatly exceeding the 44C maximum human survival limit.My own projections of the current trend are a little more pessimistic than IPCC RCP8.5 projections. They simply extrapolate the current exponential increase of atmospheric CO2 and project 877 PPM by 2100 then apply the current IPCC equilibrium CO2 sensitivity formula3C  1.5C for every doubling of atomospheric CO2log2(877/280) * 1.5 = 2.47log2(877/280) * 3.0 = 4.94 // Business as usual for 80 more yearslog2(877/280) * 4.5 = 7.41https://www.giss.nasa.gov/research/briefs/hansen_17/When we examine this graph we see that a single degree of temperature anomaly is associated with a shift of the whole temperature bell curve two standard deviations to the right.If we hypothesize that a single degree of temperature anomaly directly caused the entire bell curve to shift the right two standard deviations then the consequences of a 5C would seem to be quite lethal.Once we numerically quantify the relationship between temperature anomaly and shifts of the bell curve then we would be able to apply this to historical geographical temperature extremes and predict the frequency, geographic and temporal extent of heat waves that would kill everything within their boundaries.This relationship seems to predict that the 5C temperature anomaly projected from \"business as usual\" for 80 more years could reasonably result in 60C (140F) killer heat waves. A 60C heat wave will kill everything in its path very quickly. Apparently humans cannot survive 44C for very long.",
+        "comments": [
+            {
+                "author": "ebv",
+                "date": "2019-12-17",
+                "text": "Idk what a killer heat wave is, but on a statistical level there definitely is a connection between heat waves and mortality. Several publications exist on the matter, attributing many hundreds of deaths per country for the past heat waves. Humans can survive high temperatures when they drink a lot and don't work hard."
+            },
+            {
+                "author": "polcott",
+                "date": "2019-12-17",
+                "text": "@ebv The key question that I am asking is does the fact that a 1C temperature anomaly seemed to have moved the whole temperature anomaly bell curve to the right by two standard deviations indicate that a 5C temperature anomaly may cause temperature extremes greater than 50C? (no possible human survival at 50C)."
+            },
+            {
+                "author": "J. Kaciulis",
+                "date": "2019-12-17",
+                "text": "The assumption here is not including any other cycle to get involved to 'remove' or balance heat effects that increase to the extreme. For instance, increased cloud cover from the heat would increase cloud cover and rainfall as an 'air conditioning' event much like what is experienced in tropical regions. Also, if less cloud cover is not happening, then in the evening, much of this heat would escape to space and temperatures would drop below 60F in the evening as they do in the desert. Having living in both types of climates, daytime heat often balances by what happens in the evening."
+            },
+            {
+                "author": "Etienne Godin",
+                "date": "2019-12-17",
+                "text": "This was around the time of the Little Ice Age isn't it? You got the Maunder minimum (first low) due to a solar spot low and then a small peak and then the Dalton minimum (second low) before the present peak. Not too much space to explain in length in comments"
+            }
+        ],
+        "answers": []
+    },
+    {
+        "question": "Climate Change in the North",
+        "author": "Ryan Amalfitano",
+        "date": "2019-12-16",
+        "text": "Why has it been so warm in Moscow, Russia the past few winters where the temperatures even overnight have been above freezing when normally it gets brutally cold?",
+        "comments": [
+            {
+                "author": "trond hansen",
+                "date": "2019-12-17",
+                "text": "related: earthscience.stackexchange.com/questions/17199/ it is my atempt to answer a very simmilar question,others can probably answer it better."
+            },
+            {
+                "author": "gerrit",
+                "date": "2019-12-17",
+                "text": "This is a good question, but can you please edit the title to make it match the question better? Although warm winters are more likely due to climate change, there are also other effects that cause some winters to be warmer than others. A good answer will address both aspects."
+            }
+        ],
+        "answers": []
+    },
+    {
+        "question": "Are 60C heat waves predicted by 5C of global heating? (The worst consequence of global heating)",
+        "author": "polcott",
+        "date": "2019-12-16",
+        "text": "Are 60C heat waves predicted by 5C of global heating?(The worst consequence of global heating in heat waves that kill everything in their path)It seems to be the case that 1C of global heating caused the whole global temperature bell curve to shift two standard deviations to the right. (see below)To anyone knowing much about statistics and bell curves this would seem to make the 80 years BAU 5C temperature anomaly have the drastically lethal consequence of much more frequent heat waves greatly exceeding the 44C maximum human survival limit.My own projections of the current trend are a little more pessimistic than IPCC RCP8.5 projections. They simply extrapolate the current exponential increase of atmospheric CO2 and project 877 PPM by 2100 then apply the current IPCC equilibrium CO2 sensitivity formula3C  1.5C for every doubling of atomospheric CO2log2(877/280) * 1.5 = 2.47log2(877/280) * 3.0 = 4.94 // Business as usual for 80 more yearslog2(877/280) * 4.5 = 7.41https://www.giss.nasa.gov/research/briefs/hansen_17/When we examine this graph we see that a single degree of temperature anomaly is associated with a shift of the whole temperature bell curve two standard deviations to the right.If we hypothesize that a single degree of temperature anomaly directly caused the entire bell curve to shift the right two standard deviations then the consequences of a 5C would seem to be quite lethal.Once we numerically quantify the relationship between temperature anomaly and shifts of the bell curve then we would be able to apply this to historical geographical temperature extremes and predict the frequency, geographic and temporal extent of heat waves that would kill everything within their boundaries.This relationship seems to predict that the 5C temperature anomaly projected from \"business as usual\" for 80 more years could reasonably result in 60C (140F) killer heat waves. A 60C heat wave will kill everything in its path very quickly. Apparently humans cannot survive 44C for very long.",
         "comments": [
             {
                 "author": "ebv",
@@ -84,20 +151,129 @@
         ]
     },
     {
-        "question": "What's the origin of particulate matter (pm10, pm2 5) [closed]",
-        "author": "Kacper Brachaczek",
-        "date": "2019-12-11",
-        "text": "Closed. This question needs details or clarity. It is not currently accepting answers.Want to improve this question? Add details and clarify the problem by editing this post.Closed 3 days ago.I would like to ask about origin and inventor of particulate matter pm10, pm2.5.Who published and defined this formulas and when.Thanks in advance!",
+        "question": "Climate Change in the North",
+        "author": "Ryan Amalfitano",
+        "date": "2019-12-16",
+        "text": "Why has it been so warm in Moscow, Russia the past few winters where the temperatures even overnight have been above freezing when normally it gets brutally cold?",
         "comments": [
             {
-                "author": "Fred",
-                "date": "2019-12-11",
-                "text": "You question is lacking detail & I suspect there may be a language translation issue. When you ask who invented pm 10 & pm 2.5 do you mean actually invented or who first had the idea for classifying particulate matter by size & used 2.4 micron & 10 microns as sizes of such matter? Also, what formulas are you referring to?"
+                "author": "trond hansen",
+                "date": "2019-12-17",
+                "text": "related: earthscience.stackexchange.com/questions/17199/ it is my atempt to answer a very simmilar question,others can probably answer it better."
             },
             {
-                "author": "daniel.neumann",
-                "date": "2019-12-12",
-                "text": "Welcome to EarthScience.SE. Do you mean the origin of the particles in the atmosphere or do you mean the classification of PM10/PM2.5 (Why PM10 and not PM5?)? In the latter case, this question seems to be a duplicate of Which particles are classified as PM2.5? How exactly is this defined?. In the first case, the text in the linked question might answer your question."
+                "author": "gerrit",
+                "date": "2019-12-17",
+                "text": "This is a good question, but can you please edit the title to make it match the question better? Although warm winters are more likely due to climate change, there are also other effects that cause some winters to be warmer than others. A good answer will address both aspects."
+            }
+        ],
+        "answers": []
+    },
+    {
+        "question": "Climate Change in the North",
+        "author": "Ryan Amalfitano",
+        "date": "2019-12-16",
+        "text": "Why has it been so warm in Moscow, Russia the past few winters where the temperatures even overnight have been above freezing when normally it gets brutally cold?",
+        "comments": [
+            {
+                "author": "trond hansen",
+                "date": "2019-12-17",
+                "text": "related: earthscience.stackexchange.com/questions/17199/ it is my atempt to answer a very simmilar question,others can probably answer it better."
+            },
+            {
+                "author": "gerrit",
+                "date": "2019-12-17",
+                "text": "This is a good question, but can you please edit the title to make it match the question better? Although warm winters are more likely due to climate change, there are also other effects that cause some winters to be warmer than others. A good answer will address both aspects."
+            }
+        ],
+        "answers": []
+    },
+    {
+        "question": "Does the geothermal activity influence the climate in Iceland?",
+        "author": "Glorfindel",
+        "date": "2019-12-14",
+        "text": "Iceland has a much more temperate climate than its latitude (~65 degrees) would suggest, thanks to the North Atlantic Current bringing relatively warm water/air so far up north.There is a lot of geothermal activity (geysers, volcanoes) in Iceland, because it lies on the boundary between the Eurasian plate and the North American one. They generate a lot of heat, at least locally. I'm curious and haven't made any calculations (I wouldn't even know where to begin) but does this activity influence the climate in Iceland in a meaningful way? E.g. without the geothermal activity, would the mean annual temperature drop, and if so, by how many degrees?",
+        "comments": [],
+        "answers": [
+            {
+                "author": "J. Kaciulis",
+                "date": "2019-12-14",
+                "text": "Since micro climates of a location are mostly based on temperature and precipitation patterns, I would suggest that yes, if focusing on precipitation alone, one would expect rising heat from geothermal activity off the surface as a variable to affect the formation and release of precipitation. But one would have to check what part of the island geothermal activity was highest as the jetstream would drag weather west to east if nearby, and given that it is a small island, may not record such an occurrence as a significant effect from the rising heat available around Iceland. I did find this article which is somewhat supportable of a heat increase around Iceland due to geothermal activity > Douglass/Patel and Knox, 2005. GEOPHYSICAL RESEARCH LETTERS, VOL. 32 https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2004GL021816",
+                "comments": []
+            },
+            {
+                "author": "Michael Walsby",
+                "date": "2019-12-14",
+                "text": "You have already hit on the reason Iceland has such a mild climate: the Gulf Stream. Geothermal heat does not measurably affect the Icelandic climate unless you make your measurements very close indeed to geothermal activity. A lot depends on whereabouts you are in Iceland. The interior is mountainous and therefore colder, while the northern coast is nearer the Arctic Circle. It has been decided that Reykjavik, on the south-west coast, is the best place to make climate measurements rather than on a mountain glacier or on top of a geothermal heat source. Major volcanic eruptions are few and far between.",
+                "comments": []
+            }
+        ]
+    },
+    {
+        "question": "Climate Change in the North",
+        "author": "Ryan Amalfitano",
+        "date": "2019-12-16",
+        "text": "Why has it been so warm in Moscow, Russia the past few winters where the temperatures even overnight have been above freezing when normally it gets brutally cold?",
+        "comments": [
+            {
+                "author": "trond hansen",
+                "date": "2019-12-17",
+                "text": "related: earthscience.stackexchange.com/questions/17199/ it is my atempt to answer a very simmilar question,others can probably answer it better."
+            },
+            {
+                "author": "gerrit",
+                "date": "2019-12-17",
+                "text": "This is a good question, but can you please edit the title to make it match the question better? Although warm winters are more likely due to climate change, there are also other effects that cause some winters to be warmer than others. A good answer will address both aspects."
+            }
+        ],
+        "answers": []
+    },
+    {
+        "question": "Does the geothermal activity influence the climate in Iceland?",
+        "author": "Glorfindel",
+        "date": "2019-12-14",
+        "text": "Iceland has a much more temperate climate than its latitude (~65 degrees) would suggest, thanks to the North Atlantic Current bringing relatively warm water/air so far up north.There is a lot of geothermal activity (geysers, volcanoes) in Iceland, because it lies on the boundary between the Eurasian plate and the North American one. They generate a lot of heat, at least locally. I'm curious and haven't made any calculations (I wouldn't even know where to begin) but does this activity influence the climate in Iceland in a meaningful way? E.g. without the geothermal activity, would the mean annual temperature drop, and if so, by how many degrees?",
+        "comments": [],
+        "answers": [
+            {
+                "author": "J. Kaciulis",
+                "date": "2019-12-14",
+                "text": "Since micro climates of a location are mostly based on temperature and precipitation patterns, I would suggest that yes, if focusing on precipitation alone, one would expect rising heat from geothermal activity off the surface as a variable to affect the formation and release of precipitation. But one would have to check what part of the island geothermal activity was highest as the jetstream would drag weather west to east if nearby, and given that it is a small island, may not record such an occurrence as a significant effect from the rising heat available around Iceland. I did find this article which is somewhat supportable of a heat increase around Iceland due to geothermal activity > Douglass/Patel and Knox, 2005. GEOPHYSICAL RESEARCH LETTERS, VOL. 32 https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2004GL021816",
+                "comments": []
+            },
+            {
+                "author": "Michael Walsby",
+                "date": "2019-12-14",
+                "text": "You have already hit on the reason Iceland has such a mild climate: the Gulf Stream. Geothermal heat does not measurably affect the Icelandic climate unless you make your measurements very close indeed to geothermal activity. A lot depends on whereabouts you are in Iceland. The interior is mountainous and therefore colder, while the northern coast is nearer the Arctic Circle. It has been decided that Reykjavik, on the south-west coast, is the best place to make climate measurements rather than on a mountain glacier or on top of a geothermal heat source. Major volcanic eruptions are few and far between.",
+                "comments": []
+            }
+        ]
+    },
+    {
+        "question": "Reflected radiation from increased CO2 : how was this calculated",
+        "author": "Richard Henry",
+        "date": "2019-12-09",
+        "text": "The IPCC claims that the reflected radiation from incresaed CO2 heats the Earth at a rate of 5 W m-2. How did the contributing researchers came out with that result?",
+        "comments": [
+            {
+                "author": "Etienne Godin",
+                "date": "2019-12-09",
+                "text": "It would be a better question if there was some sort of links or references to the claims (from the IPCC) you are pointing at"
+            },
+            {
+                "author": "ebv",
+                "date": "2019-12-09",
+                "text": "Welcome. And where does it claim so ?"
+            },
+            {
+                "author": "Keith McClary",
+                "date": "2019-12-10",
+                "text": "The wiki Greenhouse effect explains how this works. The IPCC report has more detail. Too much to put in an Answer."
+            },
+            {
+                "author": "ebv",
+                "date": "2019-12-10",
+                "text": "We know about the greenhouse effect. But we can't answer the question without knowing the source for the figure. It might be too low, meanwhile."
             }
         ],
         "answers": []

@@ -1,1 +1,2 @@
-https://earthscience.stackexchange.com/questions/tagged/climate-change?tab=newest&page=1&pagesize=50
+https://earthscience.stackexchange.com/questions/tagged/climate-change?tab=newest&page=1&pagesize=15
+https://earthscience.stackexchange.com/questions/tagged/climate?tab=newest&page=1&pagesize=15
